@@ -9,9 +9,9 @@ this is the lab task 03 and we are learning Github Section BCS 1G
 <br/>
 _this is Italic_
 <br/>
--unordered list 1
--unordered list 2
+- Unordered List1
+- Unordered List2
    <br/>
-        1.ordered list
-        2.ordered list
+        1. order list 1
+        2. order list 2
         
