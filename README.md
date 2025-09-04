@@ -1,6 +1,6 @@
 # PF-Lab03-25K-0810
 ## Random AAH Heading
-### Why We Doing this
+### Why Are We Doing this
 
 
 this is the lab task 03 and we are learning Github Section BCS 1G
