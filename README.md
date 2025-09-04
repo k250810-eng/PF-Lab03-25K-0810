@@ -6,8 +6,9 @@ This is the first ever read me that is being written from me. I am writing this 
 If you want to come to fast use this link : https://www.nu.edu.pk/
 
 ## heading 1
-
-
-## Heading 2
-
+<br/>
+## Why do this
+<br/>
 this is lab task 03 and we are learning Github
+**This is Bold**
+_this is Italic_
